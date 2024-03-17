@@ -1,2 +1,2 @@
 # rejoan-restaurent-project
-I developed this portfolio website to using   html and CSS
+I developed this  website to using   html and CSS
